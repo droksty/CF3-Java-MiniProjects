@@ -1,12 +1,13 @@
 package gr.aueb.cf.projects;
 
 /**
- * Mini Projects - Project 5
+ * CF3 Mini Projects - Project 5
  * Theater seats manager
- * 
+ *
  * Theater seats layout: 30 rows (1-30) x 12 columns (A-L)
  *
  * @version 0.2
+ * @author droksty
  */
 public class Project5 {
     static int[][] seats = new int[30][12];
